@@ -1,0 +1,5 @@
+{
+  "name": "SampleFile",
+  "content": "This is test content",
+  "persist": true
+}
